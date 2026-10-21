@@ -76,8 +76,8 @@ A direct view of the back panel, highlighting the camera layout, rear surface, a
 
 The original 3D design was created in Onshape.
 
-[View the iPhone 18 Pro Concept in Onshape]
-(https://cad.onshape.com/documents/d8dd3c5e5c81b2776734a7c/w/0044f8e5e3e577626fed615/e/fb3a176271082953dba34a56)
+[View the iPhone 18 Pro Concept in Onshape](https://cad.onshape.com/documents/d8dd3c5e5c81b2776734a7c/w/0044f8e5e3e577626fed615/e/fb3a176271082953dba34a56)
+
 
 *Depending on the document's sharing permissions, visitors may need to sign in to Onshape.*
 
